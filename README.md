@@ -3,17 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srkonok&label=Profile%20views&color=0e75b6&style=flat" alt="srkonok" /> </p>
 
-- 🔭 I’m currently working on **Pet Project**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate with **Stack Developer Team**
 
 - 👨‍💻 All of my projects are available at [srkonok.com](srkonok.com)
 
 - 📝 I regularly write articles on [https://srkonok.com/#blog](https://srkonok.com/#blog)
-
-- 💬 Ask me about **React, Express & MongoDB**
 
 - 📫 How to reach me **srkonok@gmail.com**
 
