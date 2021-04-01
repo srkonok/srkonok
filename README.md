@@ -5,13 +5,6 @@
 
 
 - 👨‍💻 All of my projects are available at [srkonok.com](srkonok.com)
-
-- 📝 I regularly write articles on [https://srkonok.com/#blog](https://srkonok.com/#blog)
-
-- 📫 How to reach me **srkonok20@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v0kltn1zWDHftqEsPBuE2gc0no7Px4IH/view](https://drive.google.com/file/d/1v0kltn1zWDHftqEsPBuE2gc0no7Px4IH/view)
-
 - ⚡ Fun fact **Code to live**
 
 <h3 align="left">Connect with me:</h3>
