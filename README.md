@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srkonok&label=Profile%20views&color=0e75b6&style=flat" alt="srkonok" /> </p>
 
-- 🔭 I’m currently working on **Pet Project**
-
 - 👨‍💻 All of my projects are available at [srkonok.com](srkonok.com)
 
 - 📝 I occasionally write articles on [https://medium.com/@srkonok](https://medium.com/@srkonok)
