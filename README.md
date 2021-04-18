@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, Express & MongoDB**
 
-- 📫 How to reach me **srkonok20@gmail.com**
-
 - ⚡ Fun fact **Code to live**
 
 <h3 align="left">Languages and Tools:</h3>
