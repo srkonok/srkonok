@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahariar R. Konok</h1>
+<h1 align="center">Hi 👋, I'm Shahriar R. Konok</h1>
 <h3 align="center">A passionate Full Stack developer. Love to explore new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srkonok&label=Profile%20views&color=0e75b6&style=flat" alt="srkonok" /> </p>
