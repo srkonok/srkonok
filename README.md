@@ -7,7 +7,7 @@
 
 - 📝 I occasionally write articles on [https://medium.com/@srkonok](https://medium.com/@srkonok)
 
-- 💬 Ask me about **React, Express & MongoDB**
+- 💬 Ask me about **React, Express , Python & MongoDB**
 
 - ⚡ Fun fact **Code to Fun**
 
