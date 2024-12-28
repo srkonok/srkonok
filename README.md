@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srkonok&label=Profile%20views&color=0e75b6&style=flat" alt="srkonok" /> </p>
 
-- 👨‍💻 All of my projects are available at [skonok.com](skonok.com)
+- 👨‍💻 All of my projects are available at [srkonok.github.io](srkonok.github.io)
 
 - 📝 I occasionally write articles on [https://medium.com/@srkonok](https://medium.com/@srkonok)
 
