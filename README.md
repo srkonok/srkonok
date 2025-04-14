@@ -5,7 +5,7 @@
 
 - 👨‍💻 visit my site at [https://srkonok.github.io](https://srkonok.github.io)
 
-- 📝 Follow my LinkedIn [https://www.linkedin.com/in/shah-konok](https://linkedin.com/in/shah)
+- 📝 Follow my LinkedIn [https://www.linkedin.com/in/shah-konok](https://linkedin.com/in/shah-konok)
 
 - 💬 Ask me about **React, Laravel, Express , Python & MongoDB**
 
